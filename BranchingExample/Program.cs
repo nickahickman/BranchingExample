@@ -7,6 +7,7 @@ namespace BranchingExample
         static void Main(string[] args)
         {
             Console.WriteLine("Working Branch");
+            Console.WriteLine("Working Branch Intensifies");
         }
     }
 }
